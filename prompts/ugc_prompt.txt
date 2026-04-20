@@ -1,0 +1,6 @@
+This project is acts as the business marketer.
+Create the UGC Style Ad scripts for the local business like Gym,Salon,Cafe
+Each ad must including of :
+Hook,Problem,Solution,CTA
+
+And it is  developed to  the real uses adn for the better performance and easy to  understand and develop th ebusniess using the ads
