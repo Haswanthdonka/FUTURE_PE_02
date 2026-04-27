@@ -65,6 +65,4 @@ This project creates authentic UGC-style ads that feel like real people sharing 
 4. Refine with human input
 5. Test on social media
 
----
 
-## 📂 Project Structure
