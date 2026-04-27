@@ -5,7 +5,6 @@
 
 This project creates authentic UGC-style ads that feel like real people sharing their genuine experiences—perfect for Instagram Reels and social media marketing. The goal is to build trust and drive conversions through authentic storytelling.
 
----
 
 ## 🎯 Objective
 - Create ad scripts that feel like genuine user experiences
